@@ -1,8 +1,13 @@
 # Sign_Language_Detection
 
+**Note**
+
+_This project uses a webcam feed for real-time sign detection. Ensure your system has a working camera before running the notebook._
+
 **Overview**
 
 1.This project focuses on detecting and recognizing sign language gestures using deep learning and computer vision techniques. The model is trained to classify hand signs into predefined categories, enabling real-time sign language interpretation.
+
 
 **Features**
 
