@@ -7,9 +7,13 @@
 **Features**
 
 1.Deep Learning-based Model: Utilizes Convolutional Neural Networks (CNN) for accurate gesture recognition.
+
 2.Real-time Detection: Supports live video feed input for dynamic sign recognition.
+
 3.Pre-trained Model Usage: Can leverage transfer learning for improved performance.
+
 4.Dataset: Uses a labeled dataset of hand gestures for training and evaluation.
+
 5.Interactive Interface: Integrates with Gradio for user-friendly interaction.
 
 **Installation**
